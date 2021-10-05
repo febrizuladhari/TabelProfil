@@ -1,0 +1,36 @@
+body {
+	background: linear-gradient(45deg, #49a09d, #5f2c82);
+	font-family: sans-serif;
+	font-weight: 100;
+}
+
+.container {
+	position: relative;
+	top: 50%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+table {
+	width: 800px;
+	margin-top: 65%;
+	margin-left: auto;
+	margin-right:auto;
+	border-color: black;
+    box-shadow: 0px 0px 20px 5px rgb(71, 71, 71);
+	font-family: 'Mukta', sans-serif;
+}
+
+table h1 {
+	color: #fff100;
+	font-size : 50px;
+	font-family: 'Mogra', cursive;
+	text-align: center;
+}
+
+td {
+    font-size: 22px;
+	padding: 10px;
+	background-color: rgba(255, 255, 255, 0.219);
+	color: #fff;
+}
